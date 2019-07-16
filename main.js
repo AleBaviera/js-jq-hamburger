@@ -1,4 +1,4 @@
-$('.header-right a').click(
+$('.header-right a i').click(
   function(){
     $('.hamburger-menu').show();
   }
